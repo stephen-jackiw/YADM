@@ -1,5 +1,5 @@
-# Yet_Another_Dots_Manager
-A  dots manager created in rust
+# Frozen Nitro Ice Cream Manager
+A dots manager with a standardized file for easy sharing (and storing).
 
 ## Contributors
 - Stephen Jackiw
